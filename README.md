@@ -4,6 +4,8 @@
 I leran a lot about **md**! wow.
 This is crom from [here](https://www.zybuluo.com/mdeditor#283612) .
 
+TypeError: unsupported operand type(s) for *: 'float' and 'NoneType'
+
 # EX:1
 
 ```python
